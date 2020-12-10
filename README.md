@@ -6,3 +6,26 @@ More Features will be added soon..
 
 Languages and library used:
 Java, Retrofit, Volley, Mysql, Rest API, PHP
+
+
+
+
+
+
+
+
+<h2> Home Page After Login </h2>
+
+<img src="img1.png" height="400px">
+
+<h2>After Selecting Particular Category </h2>
+
+<img src="img2.png" height="400px">
+
+<h2> Sub Category with units and price</h2>
+
+<img src="img3.png" height="400px">
+
+<h2>Selected Item Added to list </h2>
+
+<img src="img4.png" height="400px">
