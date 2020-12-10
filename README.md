@@ -4,7 +4,7 @@ It Aims to reduce rush in local stores and to increase efficiency of shopkeepers
 
 More Features will be added soon..
 
-Languages and library used:
+<b>Languages and library used:</b><br>
 Java, Retrofit, Volley, Mysql, Rest API, PHP
 
 
